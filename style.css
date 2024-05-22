@@ -92,8 +92,8 @@ body * {
   height: 24px;
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
-  backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
   border-radius: 9999px;
 }
 
@@ -115,8 +115,8 @@ ul li a {
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
   border-radius: 8px;
-  backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
   text-decoration: none;
   font-weight: 400;
   transition: background 0.4s;
