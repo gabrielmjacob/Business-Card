@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Portifólio </h1>
 
 
 
@@ -12,12 +12,10 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
-
 <br>
+<h2 align="center">
+Business Card</h2>
 
-<p align="center">
-Projeto
-DevLinks</p>
 
 ## 🚀 Tecnologias
 
