@@ -1,7 +1,5 @@
  <h1 align="center"> Portifólio </h1>
-<h3 align="center">
-  <a href="https://gabrielmxrz.github.io/projeto/" target="_blank"><b>ACESSO AO PROJETO</b></a>
-</h3>
+<a href="https://gabrielmxrz.github.io/projeto/" target="_blank" rel="noopener noreferrer"><b>Acesse o projeto neste link</b></a>
 
 
 <p align="center">
