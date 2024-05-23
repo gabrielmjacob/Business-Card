@@ -11,13 +11,14 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
+
 <h2 align="center"> 
 Business Card</h2>
 <br>
 <img src="github/previewf.jpg"/>
 
 <h3 align="center">
-  <a href="https://gabrielmxrz.github.io/projeto/" target="_blank"><b>ACESSO AO PROJETO</b></a>
+  <a href="https://gabrielmxrz.github.io/projeto/" target="_blank"><b>(ACESSO AO PROJETO)</b></a>
 </h3>
 
 
