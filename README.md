@@ -16,7 +16,7 @@ Business Card</h2>
 <img src="github/previewf.jpg"/>
 
 <h3 align="center">
-  <a href="https://gabrielmxrz.github.io/projeto/" target="_blank"><b>(ACESSO AO PROJETO)</b></a>
+  <a href="https://gabrielmxrz.github.io/Business-Card/" target="_blank"><b>(ACESSO AO PROJETO)</b></a>
 </h3>
 
 
